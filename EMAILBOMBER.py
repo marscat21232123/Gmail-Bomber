@@ -1,4 +1,5 @@
-
+#NOT MINE DON'T COPY ME
+#ALL RIGHTS TO @NCORBUK
 import smtplib
 import sys
 
